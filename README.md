@@ -71,7 +71,7 @@ Este site foi criado como uma página simples e responsiva para treinar conceito
 ## 📈 **Como Executar o Projeto**  
 1. Faça o download ou clone o repositório.  
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/SamuelASantos/portfolio.git
    ```
 2. Abra o arquivo `index.html` no navegador para visualizar o site.  
 
